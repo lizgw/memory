@@ -1,5 +1,5 @@
 # Memory
-A memory game about matching tiles. Created in Phaser.
+A memory game about matching tiles.
 
 ## How to Play
 Click a tile to turn it over, then find the matching card. Try to find all of the matches in as few moves as possible!
